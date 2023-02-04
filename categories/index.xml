@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on aranyacreations</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on aranyacreations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Sep 2020 18:43:08 +0000</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>For the furry friends</title>
+      <link>http://example.org/categories/for-the-furry-friends/</link>
+      <pubDate>Sun, 20 Sep 2020 18:43:08 +0000</pubDate>
+      
+      <guid>http://example.org/categories/for-the-furry-friends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>For the Home</title>
+      <link>http://example.org/categories/for-the-home/</link>
+      <pubDate>Sun, 20 Sep 2020 18:43:08 +0000</pubDate>
+      
+      <guid>http://example.org/categories/for-the-home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>For the tiny humans</title>
+      <link>http://example.org/categories/for-the-tiny-humans/</link>
+      <pubDate>Sun, 20 Sep 2020 18:43:08 +0000</pubDate>
+      
+      <guid>http://example.org/categories/for-the-tiny-humans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>For you</title>
+      <link>http://example.org/categories/for-you/</link>
+      <pubDate>Sun, 20 Sep 2020 18:43:08 +0000</pubDate>
+      
+      <guid>http://example.org/categories/for-you/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
